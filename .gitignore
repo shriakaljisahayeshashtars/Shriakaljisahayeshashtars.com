@@ -1,0 +1,22 @@
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build files
+/node_modules/
+/dist/
+/build/
